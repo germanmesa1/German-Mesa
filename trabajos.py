@@ -102,5 +102,31 @@ for x in range(len(lista_f)):
 
 print(lista_h)    
 
+#9
 
+# Ejercicio 7
+A = int(input("Introduce el valor de A: "))
+B = int(input("Introduce el valor de B: "))
+C = int(input("Introduce el valor de C: "))
+
+# Creamos una lista con los números y la ordenamos en orden descendente
+numeros = [A, B, C]
+numeros.sort(reverse=True)
+
+print("Los números en orden descendente son:", numeros)
+
+#10
+
+# Ejercicio 9
+numeros = []
+
+# Solicitar los 4 números
+for i in range(4):
+    numero = float(input(f"Introduce el número {i + 1}: "))
+    numeros.append(numero)
+
+# Encontrar el mayor número
+mayor_numero = max(numeros)
+
+print("El número mayor es:", mayor_numero)
     
