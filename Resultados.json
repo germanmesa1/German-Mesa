@@ -1,0 +1,50 @@
+[
+    {
+        "Serial de la probeta": "P001",
+        "Nombre del material": "Acero",
+        "Resultado de ensayo de tracción": 0.2,
+        "Resultado prueba de dureza": 80,
+        "Resultado prueba de hemocompatibilidad": "Sí",
+        "Resultado prueba de inflamabilidad": "No",
+        "Resultado densidad": 7.85,
+        "Resultado temperatura de fusión": 1538,
+        "Fecha de realización": "2024-06-01",
+        "Código responsable": 1
+    },
+    {
+        "Serial de la probeta": "P002",
+        "Nombre del material": "Aluminio",
+        "Resultado de ensayo de tracción": 0.1,
+        "Resultado prueba de dureza": 60,
+        "Resultado prueba de hemocompatibilidad": "No",
+        "Resultado prueba de inflamabilidad": "Sí",
+        "Resultado densidad": 2.7,
+        "Resultado temperatura de fusión": 660,
+        "Fecha de realización": "2024-06-02",
+        "Código responsable": 2
+    },
+    {
+        "Serial de la probeta": "P003",
+        "Nombre del material": "Polietileno",
+        "Resultado de ensayo de tracción": 0.05,
+        "Resultado prueba de dureza": 40,
+        "Resultado prueba de hemocompatibilidad": "Sí",
+        "Resultado prueba de inflamabilidad": "No",
+        "Resultado densidad": 0.92,
+        "Resultado temperatura de fusión": 135,
+        "Fecha de realización": "2024-06-03",
+        "Código responsable": 3
+    },
+    {
+        "Serial de la probeta": "P004",
+        "Nombre del material": "Cobre",
+        "Resultado de ensayo de tracción":0.15,
+        "Resultado prueba de dureza": 70,
+        "Resultado prueba de hemocompatibilidad": "Sí",
+        "Resultado prueba de inflamabilidad": "No",
+        "Resultado densidad": 8.96,
+        "Resultado temperatura de fusión": 1085,
+        "Fecha de realización": "2024-06-04",
+        "Código responsable": 4
+    }
+]

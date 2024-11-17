@@ -1,0 +1,14 @@
+<usuarios>
+    <usuario id="1">
+        <nombre>Juan Perez</nombre>
+        <clave>1234</clave>
+    </usuario>
+    <usuario id="2">
+        <nombre>Maria Lopez</nombre>
+        <clave>5678</clave>
+    </usuario>
+    <usuario id="3">
+        <nombre>Carlos Martinez</nombre>
+        <clave>1468</clave>
+    </usuario>
+<admin><nombre>isabella</nombre><clave>3698</clave></admin></usuarios>

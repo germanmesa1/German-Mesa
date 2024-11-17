@@ -1,0 +1,39 @@
+[
+    {
+      "Código responsable": 1,
+      "Contraseña": "123",
+      "Nombre": "Daniela Alejandra",
+      "Apellido": "Rojas López",
+      "Numero del documento de identidad": 1954,
+      "Cargo": "Auxiliar"
+    },
+    {
+      "Código responsable": 2,
+      "Contraseña": "HO12m",
+      "Nombre": "Angela Camila ",
+      "Apellido": "Fajardo",
+      "Numero del documento de identidad": 1954,
+      "Cargo": "Profesor"
+    },
+    {
+      "Código responsable": 3,
+      "Contraseña": "1TTTT",
+      "Nombre": "Andrés Felipe ",
+      "Apellido": "Ramirez",
+      "Numero del documento de identidad": 1954,
+      "Cargo": "Investigador"
+    },
+    {
+      "Código responsable": 4,
+      "Contraseña": "hola1",
+      "Nombre": "Julian Camilo",
+      "Apellido": "Jaramillo",
+      "Numero del documento de identidad": 1954,
+      "Cargo": "Estudiante"
+    }
+    
+  ]
+
+
+
+      
